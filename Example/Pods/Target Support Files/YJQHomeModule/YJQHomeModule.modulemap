@@ -1,0 +1,6 @@
+framework module YJQHomeModule {
+  umbrella header "YJQHomeModule-umbrella.h"
+
+  export *
+  module * { export * }
+}

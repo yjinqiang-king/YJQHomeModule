@@ -1,0 +1,16 @@
+PODS:
+  - YJQHomeModule (0.1.0)
+
+DEPENDENCIES:
+  - YJQHomeModule (from `../`)
+
+EXTERNAL SOURCES:
+  YJQHomeModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YJQHomeModule: 248f86fc8cbc170aac8f1ea3f08a5ea8576d40cb
+
+PODFILE CHECKSUM: d053bbfa1f8dab2e2c0669b94a6dfb74bf09b2cc
+
+COCOAPODS: 1.6.0
